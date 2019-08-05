@@ -12,7 +12,7 @@ namespace Hello_World2
         {
             Console.WriteLine("Class C#");
             Console.ReadLine();
-            //this comment df,jhdkjhg
+          
         }
     }
 }
